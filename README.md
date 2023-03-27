@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [Behance](https://www.behance.net/costaslemonis)
 
+- 🔭 I’m currently working for [A.C. Aris Handball](https://www.instagram.com/arishandball/?hl=el) 🟡⚫
+
 - 📫 How to reach me **costaslemonis2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
