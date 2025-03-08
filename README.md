@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity, Java**
 
-- 🔭 I’m currently working on [Group-Digital-StoryTelling](https://github.com/Costas-Lemonis/Digital-Storytelling-Group-Assignment)
+- 🔭 I’m currently working on [Jar.vis AR](https://github.com/Costas-Lemonis/Jarvis-AR)
 
 - 👨‍💻 All of my projects are available at [Behance](https://www.behance.net/costaslemonis)
 
